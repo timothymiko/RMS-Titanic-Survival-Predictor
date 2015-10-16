@@ -40,3 +40,6 @@ nephews/nieces, aunts/uncles, and in-laws.  Some children travelled
 only with a nanny, therefore parch=0 for them.  As well, some
 travelled with very close friends or neighbors in a village, however,
 the definitions do not support such relations.
+
+## Analysis
+For the initial data analysis, go [here](Analysis.md).
